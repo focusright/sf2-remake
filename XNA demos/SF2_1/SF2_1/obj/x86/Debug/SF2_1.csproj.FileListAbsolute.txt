@@ -1,0 +1,49 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\SF2_1.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\SF2_1.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\obj\x86\Debug\SF2_1.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\obj\x86\Debug\SF2_1.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE_Transparent.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Arial.xnb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Stage_Blanka.xnb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE.xnb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE_Transparent.xnb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Stage_Blanka.xnb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Arial.xnb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\SF2_1.exe
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\SF2_1.pdb
+D:\Code\Projects\SF2_1\SF2_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\Projects\SF2_1\SF2_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Code\Projects\SF2_1\SF2_1\obj\x86\Debug\SF2_1.exe
+D:\Code\Projects\SF2_1\SF2_1\obj\x86\Debug\SF2_1.pdb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myWaveBank.xwb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\mySoundBank.xsb
+D:\Code\Projects\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myXACTProject.xgs
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE.xnb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE_Transparent.xnb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Stage_Blanka.xnb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Arial.xnb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myXACTProject.xgs
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myWaveBank.xwb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\mySoundBank.xsb
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\SF2_1.exe
+D:\Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\SF2_1.pdb
+D:\Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\SF2_1.exe
+D:\Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\SF2_1.pdb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE_Transparent.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Stage_Blanka.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Arial.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myXACTProject.xgs
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\myWaveBank.xwb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Audio\mySoundBank.xsb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\SF2_1.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\SF2_1.pdb
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\SF2_1.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\obj\x86\Debug\SF2_1.pdb

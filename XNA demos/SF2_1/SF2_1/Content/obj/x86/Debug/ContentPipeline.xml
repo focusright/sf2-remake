@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>RyuCE.png</Source>
+      <Name>RyuCE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE.xnb</Output>
+      <Time>2010-04-15T18:33:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RyuCE_Transparent.png</Source>
+      <Name>RyuCE_Transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\RyuCE_Transparent.xnb</Output>
+      <Time>2010-04-16T00:22:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sf2-blanka.png</Source>
+      <Name>Stage_Blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Stage_Blanka.xnb</Output>
+      <Time>2010-04-16T00:03:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2010-04-15T23:24:56-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Code\Freedom_Code\Projects\XNA\SF2_1\SF2_1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-12T10:11:07.2998783-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

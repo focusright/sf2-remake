@@ -1,0 +1,14 @@
+D:\Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\SF2_2.exe
+D:\Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\SF2_2.pdb
+D:\Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\SF2_2.exe
+D:\Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\SF2_2.pdb
+D:\Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\Content\sf2-blanka.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\Content\sf2-blanka.xnb
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\SF2_2.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\bin\x86\Debug\SF2_2.pdb
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\SF2_2.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\obj\x86\Debug\SF2_2.pdb

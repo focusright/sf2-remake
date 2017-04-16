@@ -1,0 +1,2 @@
+D:\Code\Projects\XNA\SF2_2\SF2_2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Freedom_Code\Projects\XNA\SF2_2\SF2_2\Content\obj\x86\Debug\ResolveAssemblyReference.cache

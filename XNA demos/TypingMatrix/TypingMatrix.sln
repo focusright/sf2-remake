@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingMatrix", "TypingMatrix\TypingMatrix.csproj", "{EED26C01-9BFE-4B6B-9D87-C9BFBA61E1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED26C01-9BFE-4B6B-9D87-C9BFBA61E1D0}.Debug|x86.ActiveCfg = Debug|x86
+		{EED26C01-9BFE-4B6B-9D87-C9BFBA61E1D0}.Debug|x86.Build.0 = Debug|x86
+		{EED26C01-9BFE-4B6B-9D87-C9BFBA61E1D0}.Release|x86.ActiveCfg = Release|x86
+		{EED26C01-9BFE-4B6B-9D87-C9BFBA61E1D0}.Release|x86.Build.0 = Release|x86
+		{980ACB5E-1E1D-43C0-B3EE-3B8137BC0882}.Debug|x86.ActiveCfg = Debug|x86
+		{980ACB5E-1E1D-43C0-B3EE-3B8137BC0882}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

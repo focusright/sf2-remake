@@ -1,0 +1,6 @@
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\bin\x86\Debug\SF2_3.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\bin\x86\Debug\SF2_3.pdb
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\obj\x86\Debug\SF2_3.exe
+C:\Code\Freedom_Code\Projects\XNA\SF2_3\SF2_3\obj\x86\Debug\SF2_3.pdb

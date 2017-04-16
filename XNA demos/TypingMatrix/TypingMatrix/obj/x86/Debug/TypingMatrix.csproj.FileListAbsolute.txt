@@ -1,0 +1,14 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\bin\x86\Debug\TypingMatrix.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\bin\x86\Debug\TypingMatrix.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\obj\x86\Debug\TypingMatrix.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\obj\x86\Debug\TypingMatrix.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\TypingMatrix\TypingMatrix\bin\x86\Debug\Content\Arial.xnb
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\bin\x86\Debug\Content\Arial.xnb
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\bin\x86\Debug\TypingMatrix.exe
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\bin\x86\Debug\TypingMatrix.pdb
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\obj\x86\Debug\TypingMatrix.exe
+C:\Code\Freedom_Code\Projects\XNA\TypingMatrix\TypingMatrix\obj\x86\Debug\TypingMatrix.pdb
