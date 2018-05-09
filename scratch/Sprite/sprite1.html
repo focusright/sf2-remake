@@ -43,28 +43,62 @@ function rect(x,y,w,h) {
     this.h = h;
 }
 
-var spritesheet, canvas, ctx;
-function loadSpriteSheet() {
-    if(spritesheet == null) {
-        spritesheet = new Image();
-        spritesheet.src = "RyuCE_Transparent.png";
-        canvas = document.getElementById('mycanvas');
-        ctx = canvas.getContext('2d');
-    }
-}
-
 function animate(frames){
+    spritesheet = new Image();
+    spritesheet.src = "RyuCE_Transparent.png";
+    canvas = document.getElementById('mycanvas');
+    ctx = canvas.getContext('2d');
+
     if (frames == idle) {
-        drawContinous(idle);
+        drawIdle(idle);
     } else if (frames == punch) {
-        draw(punch);
-        drawContinous(idle);
+        drawPunch(punch);
     } else if (frames == walkforward) {
 
     } else if (frames == walkbackward) {
 
     }
-}   
+} 
+
+var curindex = 0;
+
+var idlehandle = 0;
+function drawIdle(frames){
+    clearInterval(idlehandle);
+    idlehandle = setInterval(function() { 
+        ctx.fillStyle = "DarkGreen";
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        curindex = curindex % frames.length;
+        var frame = frames[curindex];
+        ctx.drawImage(spritesheet, frame.x, frame.y, frame.w, frame.h, 100, 100, 180, 250);
+        curindex++;
+        
+        document.getElementById('data').innerHTML = curindex;
+    }, 100);
+    
+    
+}
+var punchhandle = 0;
+function drawPunch(frames) {
+    clearInterval(idlehandle);
+    curindex = 0;
+    var frame = null;
+    punchhandle = setInterval(function() {
+        if(curindex < frames.length) {
+            ctx.fillStyle = "DarkGreen";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            frame = frames[curindex];
+            ctx.drawImage(spritesheet, frame.x, frame.y, frame.w, frame.h, 100, 100, 180, 250);
+            curindex++;
+            
+            document.getElementById('data').innerHTML = curindex;
+        } else {
+            clearInterval(punchhandle);
+            drawIdle(idle);
+        }
+    }, 100);
+}
 
 document.onkeydown = 
     function(e) {
@@ -98,41 +132,9 @@ function walkright() {
 
 }
 
-function getFrames() {
-
-}
-
-function draw(frames) {
-
-}
-
-function drawContinous(frames) {
-    
-}
-
-var curindex = 0;
-function startAnimationLoop() {
-    var animationHandle = setInterval(function() { 
-        ctx.fillStyle = "DarkGreen";
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-        var frames = getFrames();
-        curindex = curindex % frames.length;
-        var frame = frames[curindex];
-        ctx.drawImage(spritesheet, frame.x, frame.y, frame.w, frame.h, 100, 100, 180, 250);
-        curindex++;
-        document.getElementById('data').innerHTML = curindex;
-    }, 100);
-}
-
-function init() {
-    loadSpriteSheet();
-    //startAnimationLoop();
-    animate(idle);
-}
-
 </script>
 </head>
-<body onload="init();">
+<body onload="animate(idle);">
   <canvas id="mycanvas" width="400" height="400"></canvas>
   <div id="data"></div>
 </body>
